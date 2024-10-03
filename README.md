@@ -76,6 +76,6 @@ The system uses cosine similarity on the movie feature vectors to calculate simi
 
 ## Visualization
 The project includes visual representations of relationships between different movie attributes:
-- **Genres and Popularity**: Distribution of movie genres.
+- **Genres**: Distribution of movie genres.
 - **Actor Appearances**: Frequency of actors in various genres.
 
