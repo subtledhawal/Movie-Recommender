@@ -2,6 +2,11 @@
 
 This project is a Movie Recommendation System built using Python and hosted locally via PyCharm. The system employs data visualization and data modeling techniques to provide movie recommendations based on user input. The dataset contains information about various movies, including genres, actors, directors, and more. The system uses a similarity-based model to recommend movies similar to the ones the user has selected.
 
+
+![image](https://github.com/user-attachments/assets/c254d894-c214-478f-b2af-94810cf4a4af)
+
+
+
 ## Table of Contents
 - [Features](#features)
 - [Installation](#installation)
@@ -51,6 +56,7 @@ You can get recommendations by selecting a movie title like "Gandhi" and the sys
 - *A Passage to India*
 
 ## Dataset
+Dataset used: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 The dataset includes:
 - Movie titles
 - Genres
